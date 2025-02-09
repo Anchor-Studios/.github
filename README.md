@@ -11,5 +11,7 @@
 - **GitHub:** [@Anchor-Studios](https://github.com/Anchor-Studios)  
 - **Discord:** (https://discord.gg/RNG8Q5dFE3)
 - **Website:** (https://sites.google.com/view/anchorstudios/)
+- **CurseForge:** (https://www.curseforge.com/members/anchorstudios/)
+- **Email:** anchorgamingstudios@gmail.com
 
 📢 *Stay tuned for exciting projects and updates!*
