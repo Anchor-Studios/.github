@@ -12,6 +12,7 @@
 - **Discord:** [BlockTopia - Anchor Studios](https://discord.gg/RNG8Q5dFE3)
 - **Website:** [Anchor Studios](https://www.anchorstudios.site/)
 - **CurseForge:** [anchorstudios](https://www.curseforge.com/members/anchorstudios/)
+- **Modrinth:** [Anchor Studios](https://modrinth.com/user/AnchorStudios)
 - **Email:** anchorgamingstudios@gmail.com
 
 📢 *Stay tuned for exciting projects and updates!*
